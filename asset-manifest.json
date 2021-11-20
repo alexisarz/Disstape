@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Disstape/static/css/main.2634b2bb.chunk.css",
+    "main.js": "/Disstape/static/js/main.5e77b02e.chunk.js",
+    "main.js.map": "/Disstape/static/js/main.5e77b02e.chunk.js.map",
+    "runtime-main.js": "/Disstape/static/js/runtime-main.64ada2dd.js",
+    "runtime-main.js.map": "/Disstape/static/js/runtime-main.64ada2dd.js.map",
+    "static/css/2.db3e3359.chunk.css": "/Disstape/static/css/2.db3e3359.chunk.css",
+    "static/js/2.7040bf93.chunk.js": "/Disstape/static/js/2.7040bf93.chunk.js",
+    "static/js/2.7040bf93.chunk.js.map": "/Disstape/static/js/2.7040bf93.chunk.js.map",
+    "index.html": "/Disstape/index.html",
+    "static/css/2.db3e3359.chunk.css.map": "/Disstape/static/css/2.db3e3359.chunk.css.map",
+    "static/css/main.2634b2bb.chunk.css.map": "/Disstape/static/css/main.2634b2bb.chunk.css.map",
+    "static/js/2.7040bf93.chunk.js.LICENSE.txt": "/Disstape/static/js/2.7040bf93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64ada2dd.js",
+    "static/css/2.db3e3359.chunk.css",
+    "static/js/2.7040bf93.chunk.js",
+    "static/css/main.2634b2bb.chunk.css",
+    "static/js/main.5e77b02e.chunk.js"
+  ]
+}
