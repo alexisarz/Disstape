@@ -1,0 +1,230 @@
+[
+    {
+        "id": 1,
+        "img": "https://canchageneral.com/wp-content/uploads/2018/09/eminem___kamikaze_by_gauthammak-dclm74v.jpg",
+        "mixtape": false,
+        "single": true,
+        "uncoming": false,
+        "name": "Song 1",
+        "genre": ["Hip-hop"],
+        "duration": "3:00",
+        "year": 2019,
+        "rating": 5,
+        "latest": false
+    },
+
+    {
+        "id": 2,
+        "img": "https://canchageneral.com/wp-content/uploads/2018/09/eminem___kamikaze_by_gauthammak-dclm74v.jpg",
+        "mixtape": false,
+        "single": true,
+        "uncoming": false,
+        "name": "Song 2",
+        "genre": ["Trap"],
+        "duration": "3:00",
+        "year": 2019,
+        "rating": 3,
+        "latest": false
+    },
+
+    {
+        "id": 3,
+        "img": "https://canchageneral.com/wp-content/uploads/2018/09/eminem___kamikaze_by_gauthammak-dclm74v.jpg",
+        "mixtape": true,
+        "single": false,
+        "uncoming": false,
+        "name": "Mix 1",
+        "genre": ["Trap"],
+        "duration": "1hs",
+        "year": 2019,
+        "rating": 5,
+        "latest": false
+    },
+
+    {
+        "id": 4,
+        "img": "https://canchageneral.com/wp-content/uploads/2018/09/eminem___kamikaze_by_gauthammak-dclm74v.jpg",
+        "mixtape": true,
+        "single": false,
+        "uncoming": false,
+        "name": "Mix 2",
+        "genre": ["Reggaeton"],
+        "duration": "2hs",
+        "year": 2019,
+        "rating": 3,
+        "latest": false
+    },
+
+    {
+        "id": 5,
+        "img": "https://canchageneral.com/wp-content/uploads/2018/09/eminem___kamikaze_by_gauthammak-dclm74v.jpg",
+        "mixtape": false,
+        "single": true,
+        "uncoming": true,
+        "name": "Song 3",
+        "genre": ["Hip-hop"],
+        "duration": "2:00",
+        "year": 2021,
+        "rating": 0,
+        "latest": true
+    },
+
+    {
+        "id": 6,
+        "img": "https://canchageneral.com/wp-content/uploads/2018/09/eminem___kamikaze_by_gauthammak-dclm74v.jpg",
+        "mixtape": false,
+        "single": true,
+        "uncoming": true,
+        "name": "Song 4",
+        "genre": ["Trap"],
+        "duration": "2:00",
+        "year": 2021,
+        "rating": 0,
+        "latest": true
+    },
+
+    {
+        "id": 7,
+        "img": "https://canchageneral.com/wp-content/uploads/2018/09/eminem___kamikaze_by_gauthammak-dclm74v.jpg",
+        "mixtape": true,
+        "single": false,
+        "uncoming": false,
+        "name": "Mix 3",
+        "genre": ["Trap"],
+        "duration": "2hs",
+        "year": 2020,
+        "rating": 5,
+        "latest": false
+    },
+
+    {
+        "id": 8,
+        "img": "https://canchageneral.com/wp-content/uploads/2018/09/eminem___kamikaze_by_gauthammak-dclm74v.jpg",
+        "mixtape": false,
+        "single": true,
+        "uncoming": false,
+        "name": "Song 5",
+        "genre": ["Hip-Hop"],
+        "duration": "2:00",
+        "year": 2000,
+        "rating": 5,
+        "latest": false
+    },
+
+    {
+        "id": 9,
+        "img": "https://canchageneral.com/wp-content/uploads/2018/09/eminem___kamikaze_by_gauthammak-dclm74v.jpg",
+        "mixtape": false,
+        "single": true,
+        "uncoming": false,
+        "name": "Song 6",
+        "genre": ["Trap"],
+        "duration": "2:00",
+        "year": 2018,
+        "rating": 3,
+        "latest": false
+    
+    },
+
+    {
+        "id": 10,
+        "img": "https://canchageneral.com/wp-content/uploads/2018/09/eminem___kamikaze_by_gauthammak-dclm74v.jpg",
+        "mixtape": false,
+        "single": true,
+        "uncoming": false,
+        "name": "Song 7",
+        "genre": ["Trap"],
+        "duration": "2:00",
+        "year": 2018,
+        "rating": 5,
+        "latest": false
+    },
+
+    {
+        "id": 11,
+        "img": "https://canchageneral.com/wp-content/uploads/2018/09/eminem___kamikaze_by_gauthammak-dclm74v.jpg",
+        "mixtape": false,
+        "single": true,
+        "uncoming": false,
+        "name": "Song 8",
+        "genre": ["Trap"],
+        "duration": "2:00",
+        "year": 2019,
+        "rating": 3,
+        "latest": false
+    },
+
+    {
+        "id": 12,
+        "img": "https://canchageneral.com/wp-content/uploads/2018/09/eminem___kamikaze_by_gauthammak-dclm74v.jpg",
+        "mixtape": false,
+        "single": true,
+        "uncoming": false,
+        "name": "Song 9",
+        "genre": ["Hip-hop"],
+        "duration": "3:00",
+        "year": 2019,
+        "rating": 2,
+        "latest": false
+    },
+
+    {
+        "id": 13,
+        "img": "https://canchageneral.com/wp-content/uploads/2018/09/eminem___kamikaze_by_gauthammak-dclm74v.jpg",
+        "mixtape": false,
+        "single": true,
+        "uncoming": false,
+        "name": "Song 10",
+        "genre": ["Hip-hop"],
+        "duration": "5:00",
+        "year": 2010,
+        "rating": 4,
+        "latest": false
+    },
+
+   
+
+    {
+        "id": 14,
+        "img": "https://canchageneral.com/wp-content/uploads/2018/09/eminem___kamikaze_by_gauthammak-dclm74v.jpg",
+        "mixtape": true,
+        "single": false,
+        "uncoming": false,
+        "name": "Mix 4",
+        "genre": ["Hip-hop"],
+        "duration": "3hs",
+        "year": 2010,
+        "rating": 4,
+        "latest": false
+    },
+
+    {
+        "id": 15,
+        "img": "https://canchageneral.com/wp-content/uploads/2018/09/eminem___kamikaze_by_gauthammak-dclm74v.jpg",
+        "mixtape": false,
+        "single": true,
+        "uncoming": false,
+        "name": "Song 11",
+        "genre": ["Trap"],
+        "duration": "2:00",
+        "year": 2019,
+        "rating": 4,
+        "latest": false
+    },
+
+    {
+        "id": 15,
+        "img": "https://canchageneral.com/wp-content/uploads/2018/09/eminem___kamikaze_by_gauthammak-dclm74v.jpg",
+        "mixtape": false,
+        "single": true,
+        "uncoming": false,
+        "name": "Song 12",
+        "genre": ["Trap"],
+        "duration": "2:00",
+        "year": 2021,
+        "rating": 3,
+        "latest": true
+    }
+
+
+]
